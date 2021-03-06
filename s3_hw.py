@@ -1,8 +1,8 @@
 import boto3
 import csv
 import codecs
-key = 'AKIA37JNAJADYDLRN3E7'
-code = 'qJxv/Q3NdUTbeBtYGDZiuaq6Y6sbSgBY1e1y5Pt1'
+key = "[key here]"
+code = "[private key here]"
 
 
 #get access to s3 resource previously created on web interface
