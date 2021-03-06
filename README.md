@@ -1,5 +1,5 @@
 # nosql-s3-hw
-Cloud Computing HW3
+Cloud Computing HW3: CLOUD STORAGE
 
 *** CLEARER SCREENSHOTS CAN BE SEEN IN THE HW3.docx FILE ***
 
