@@ -17,7 +17,7 @@ MARY KOZUCH
 
 3.	Code
 
- ![image](https://user-images.githubusercontent.com/21665751/110218200-4e576580-7e86-11eb-8899-c3c378bc6568.png)
+ ![image](https://user-images.githubusercontent.com/21665751/110222413-f0d01280-7e9f-11eb-9242-d7f9f48ce409.png)
  ![image](https://user-images.githubusercontent.com/21665751/110218202-51eaec80-7e86-11eb-8787-5d97bf6ffcf1.png)
 
  
