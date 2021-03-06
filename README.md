@@ -1,6 +1,12 @@
 # nosql-s3-hw
 Cloud Computing HW3
 
+*** CLEARER SCREENSHOTS CAN BE SEEN IN THE HW3.docx FILE ***
+
+MARY KOZUCH
+
+3/6/2021
+
 1.	AWS account with IAM
 
  ![image](https://user-images.githubusercontent.com/21665751/110218187-45ff2a80-7e86-11eb-8963-b1d648a58bde.png)
